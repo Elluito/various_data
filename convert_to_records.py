@@ -24,7 +24,7 @@ import sys
 
 import tensorflow as tf
 
-from tensorflow.contrib.learn.python.learn.datasets import mnist
+from tensorflow.keras.datasets import mnist
 
 FLAGS = None
 
